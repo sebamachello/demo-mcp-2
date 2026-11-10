@@ -1,2 +1,1 @@
-# demo-mcp-2
-Prueba del MCP Server
+Repo de prueba creado desde el agente
